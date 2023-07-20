@@ -31,7 +31,8 @@ function Tokenomics() {
                   }}
                 >
                   <HowToBuyCardText>
-                    1% Taxes, No Bullshit. It’s that simple.
+                    1% Taxes,Surpass $PEPE, end $PEPE. No Bullshit. It’s that
+                    simple.
                   </HowToBuyCardText>
                   <HowToBuyCardText>
                     Adopting the latest Pink Sale presale mechanism, with 5%
