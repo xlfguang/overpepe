@@ -9,12 +9,12 @@ import {
   HomeTitle,
   MediaBox,
 } from "./style";
-import cmc from "../assets/img/cmc.webp";
-import dextools from "../assets/img/dextools.webp";
-import etherscan from "../assets/img/etherscan.webp";
+// import cmc from "../assets/img/cmc.webp";
+// import dextools from "../assets/img/dextools.webp";
+// import etherscan from "../assets/img/etherscan.webp";
 import telgrrgrgrgr from "../assets/img/telgrrgrgrgr.webp";
 import twitter from "../assets/img/twitter.webp";
-import uniswap from "../assets/img/uniswap.webp";
+// import uniswap from "../assets/img/uniswap.webp";
 import img2 from "../assets/img/img2.png";
 
 const HomeImgList = [

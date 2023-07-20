@@ -1,63 +1,63 @@
 import Container from "./Container";
 import {
   CardBox,
-  CardListBox,
+  // CardListBox,
   FlexBox,
   HowToBuyCardText,
-  HowToBuyCardTitle,
+  // HowToBuyCardTitle,
   RoadmapImg,
   RoadmapText,
   Title,
 } from "./style";
 import leftImg from "../assets/img/img7.jpg";
 import rightImg from "../assets/img/img2.png";
-import styled from "styled-components";
-const cardList = [
-  {
-    title: "Phase 1",
-    textList: ["Launch", "CoinGecko/Coinmarketcap Listings"],
-  },
-  {
-    title: "Phase 2",
-    textList: ["Launch", "CoinGecko/Coinmarketcap Listings"],
-  },
-  {
-    title: "Phase 3",
-    textList: ["Launch", "CoinGecko/Coinmarketcap Listings"],
-  },
-];
-const RoadmapLiText = styled.div`
-  width: 85%;
-  color: #fff;
-  font-size: 20px;
-  font-weight: 400;
-  font-family: "Microsoft YaHei";
-  text-align: left;
-  margin: 0 auto;
-`;
-const RoadmapLi = ({ children }: any) => {
-  return (
-    <CardListBox
-      style={{
-        width: "80%",
-        alignItems: "flex-start",
-        justifyContent: "flex-start",
-      }}
-    >
-      <div
-        style={{
-          color: "#000",
-          fontSize: "20px",
-          marginRight: "0px",
-          width: "20px",
-        }}
-      >
-        •
-      </div>
-      <RoadmapLiText>{children}</RoadmapLiText>
-    </CardListBox>
-  );
-};
+// import styled from "styled-components";
+// const cardList = [
+//   {
+//     title: "Phase 1",
+//     textList: ["Launch", "CoinGecko/Coinmarketcap Listings"],
+//   },
+//   {
+//     title: "Phase 2",
+//     textList: ["Launch", "CoinGecko/Coinmarketcap Listings"],
+//   },
+//   {
+//     title: "Phase 3",
+//     textList: ["Launch", "CoinGecko/Coinmarketcap Listings"],
+//   },
+// ];
+// const RoadmapLiText = styled.div`
+//   width: 85%;
+//   color: #fff;
+//   font-size: 20px;
+//   font-weight: 400;
+//   font-family: "Microsoft YaHei";
+//   text-align: left;
+//   margin: 0 auto;
+// `;
+// const RoadmapLi = ({ children }: any) => {
+//   return (
+//     <CardListBox
+//       style={{
+//         width: "80%",
+//         alignItems: "flex-start",
+//         justifyContent: "flex-start",
+//       }}
+//     >
+//       <div
+//         style={{
+//           color: "#000",
+//           fontSize: "20px",
+//           marginRight: "0px",
+//           width: "20px",
+//         }}
+//       >
+//         •
+//       </div>
+//       <RoadmapLiText>{children}</RoadmapLiText>
+//     </CardListBox>
+//   );
+// };
 const Roadmap = () => {
   return (
     <div id="roadmap">

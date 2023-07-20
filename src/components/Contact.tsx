@@ -2,7 +2,7 @@ import Container from "./Container";
 import { ColumnImgBox, ColumnText, FlexBox, Title } from "./style";
 import tw from "../assets/img/twttttee2.webp";
 import tw2 from "../assets/img/twtttt.webp";
-import tw3 from "../assets/img/twttttee234.webp";
+// import tw3 from "../assets/img/twttttee234.webp";
 import logo from "../assets/img/img1.png";
 import { Flex, Logo } from "./Header";
 

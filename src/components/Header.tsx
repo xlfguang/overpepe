@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import Container from "./Container";
 import logo from "../assets/img/img1.png";
