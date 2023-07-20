@@ -34,10 +34,12 @@ function Tokenomics() {
                     1% Taxes, No Bullshit. It’s that simple.
                   </HowToBuyCardText>
                   <HowToBuyCardText>
-                    Adopting the latest Pinksale presale mechanism, with 5%
-                    token airdrop, 5% of tokens allocated for listing, 50% added
-                    to liquidity, and the remaining 50% will be automatically
-                    repurchased and burned
+                    Adopting the latest Pink Sale presale mechanism, with 5%
+                    token airdrop, 5% of tokens allocated for listing, 60% of
+                    tokens allocated for presale, and 30% of tokens dedicated to
+                    adding liquidity. 50% of the funds raised during the presale
+                    will be added to liquidity, and the remaining 50% will be
+                    automatically repurchased and burned.
                   </HowToBuyCardText>
                 </CardBox>
               </FlexBox>

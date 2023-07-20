@@ -20,11 +20,11 @@ import img2 from "../assets/img/img2.png";
 const HomeImgList = [
   {
     src: twitter,
-    url: "",
+    url: "https://twitter.com/OverBabyDoge",
   },
   {
     src: telgrrgrgrgr,
-    url: "",
+    url: "https://t.me/OVERPEPE",
   },
   // {
   //   src: dextools,
@@ -62,7 +62,7 @@ const Home = () => (
             <HomeImgs>
               {HomeImgList.map((item, index) => {
                 return (
-                  <a href={item.url} key={index}>
+                  <a href={item.url} key={index} target="_blank">
                     <HomeImg src={item.src} />
                   </a>
                 );
