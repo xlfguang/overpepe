@@ -12,10 +12,10 @@ function Contact() {
       <FlexBox direction="column">
         <Title> CONTACT</Title>
         <ColumnImgBox>
-          <a href="">
+          <a href="https://t.me/OVERPEPE" target="_black">
             <img src={tw} alt="" />
           </a>
-          <a href="">
+          <a href="https://twitter.com/OverBabyDoge" target="_black">
             <img src={tw2} alt="" />
           </a>
           {/* <a href="">
