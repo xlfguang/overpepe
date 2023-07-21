@@ -13,7 +13,7 @@ import img1 from "../assets/img/card1.webp";
 import img2 from "../assets/img/card2.webp";
 import img3 from "../assets/img/card3.webp";
 import img4 from "../assets/img/card4.png";
-import img5 from "../assets/img/img4.webp";
+import img5 from "../assets/img/img8.jpg";
 const cardList = [
   {
     img: img1,

@@ -1,4 +1,4 @@
-import aboutImg from "../assets/img/img3.jpg";
+import aboutImg from "../assets/img/img3.png";
 import Container from "./Container";
 import { FlexBox, MediaBox, MyText, Title } from "./style";
 

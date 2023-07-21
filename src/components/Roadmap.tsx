@@ -9,7 +9,7 @@ import {
   RoadmapText,
   Title,
 } from "./style";
-import leftImg from "../assets/img/img7.jpg";
+import leftImg from "../assets/img/img7.png";
 import rightImg from "../assets/img/img2.png";
 // import styled from "styled-components";
 // const cardList = [
