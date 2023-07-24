@@ -16,6 +16,7 @@ import telgrrgrgrgr from "../assets/img/telgrrgrgrgr.webp";
 import twitter from "../assets/img/twitter.webp";
 // import uniswap from "../assets/img/uniswap.webp";
 import img2 from "../assets/img/img2.png";
+import pinkswap from "../assets/img/pinkswap.png";
 
 const HomeImgList = [
   {
@@ -40,8 +41,12 @@ const HomeImgList = [
   // },
   // {
   //   src: uniswap,
-  //   url: "",
+  //   url: "https://www.pinksale.finance/launchpad/0x9bd8C830ED3913c85fcA50Cef27389f7f3d4Bb91?chain=ETH",
   // },
+  {
+    src: pinkswap,
+    url: "https://www.pinksale.finance/launchpad/0x9bd8C830ED3913c85fcA50Cef27389f7f3d4Bb91?chain=ETH",
+  },
 ];
 
 const Home = () => (
